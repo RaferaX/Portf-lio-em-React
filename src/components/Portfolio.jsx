@@ -53,7 +53,7 @@ const projects = [
         description: "Portfólio Interativo usando React",
         links: {
           site: "",
-          github: "",
+          github: "https://github.com/RaferaX/Portf-lio-em-React",
         },
       }    
 ]
