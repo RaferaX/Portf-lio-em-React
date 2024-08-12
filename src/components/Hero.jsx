@@ -38,10 +38,11 @@ const Hero = () => {
             Com 2 Anos de Experiência
           </p>
           <a
-            href="/"
+            href="/Rafael Leonardo.pdf"
             title="Download CV"
             role="button"
             className="mt-4 px-4 py-2 text-lg font-bold text-white bg-primary-color rounded-xl"
+            download
           >
             Download CV
           </a>
