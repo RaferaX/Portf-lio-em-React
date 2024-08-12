@@ -52,7 +52,7 @@ const projects = [
         title: "Projeto #5",
         description: "Portfólio Interativo usando React",
         links: {
-          site: "",
+          site: "https://portfolio-em-react-iota.vercel.app/",
           github: "https://github.com/RaferaX/Portf-lio-em-React",
         },
       }    
